@@ -2,4 +2,4 @@
 
 Published in: IEEE Sensors Journal
 
-H. Li, R. Nie, et al., "Multi-focus image fusion using u-shaped networks with a hybrid objective". IEEE Sensors Journal, 2019, 19(21): 9755-9765.
+H. Li, R. Nie, et al., "Multi-Focus Image Fusion using U-shaped Networks with a Hybrid Objective". IEEE Sensors Journal, 2019, 19(21): 9755-9765.
