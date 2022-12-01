@@ -1,4 +1,5 @@
-# Multi-Focus-Image-Fusion-Using-U-Shaped-Networks-With-a-Hybrid-Objective
+# MFIF-Using-U-Shaped-Networks-With-a-Hybrid-Objective
+# Multi-Focus Image Fusion using U-shaped Networks with a Hybrid Objective
 
 Published in: IEEE Sensors Journal
 
